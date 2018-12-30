@@ -10,20 +10,20 @@ Experience providing vision, leadership, and implementation of innovative techno
 
 ## Experience
 ### Northwestern Mutual - Software Engineer II
-January 2017 - Present
+_January 2017 - Present_
 
 Plays a crucial role in a highly successful scrum team. Responsible for understanding Real Estate business processes and creating cutting-edge technology solutions to improve business processes. Takes part in digital innovation opportunities that often lead to tangible improvements in business processes. A member of the Diversity and Inclusion council to help lead efforts in creating an engaging, equitable, and diverse workplace.
 
 ### Infosoft Group - Programmer Analyst Intern
-May 2014 - November 2016
+_May 2014 - November 2016_
 
 Assists IT Staff in conceptualizing and development of new and existing software programs and applications. Write, translate, and code software programs and applications according to specifications. Test software and resolve any defects found. Run and monitor software performance tests on new and existing programs for the purposes of correcting errors, isolating areas for improvement, and general debugging.
 
 ### Milwaukee County - IT Intern
-September 2013 - May 2014
+_September 2013 - May 2014_
 
 Responsible for imaging, updating, and deploying new PCs during a technology transition project. Deployed PCs all over Milwaukee county including the Milwaukee County Courthouse, The Domes, and various parks. Also responsible for outstation trouble shooting. 
 
 ## Education
 ### University of Wisconsin - Milwaukee, B.S. Computer Science
-September 2012 - December 2016
+_September 2012 - December 2016_
