@@ -27,3 +27,18 @@ Responsible for imaging, updating, and deploying new PCs during a technology tra
 ## Education
 ### University of Wisconsin - Milwaukee, B.S. Computer Science
 _September 2012 - December 2016_
+
+## Other Skills
+* Java
+* Python
+* Javascript and various front end JS Frameworks
+* Swift
+* MS SQL
+* Photoshop
+* Sketch.app
+* macOS and Windows
+* AWS
+* Web Development(HTML/CSS)
+* Awesome Problem Solving Skills
+* Can have successful conversations with other humans at times
+* Plays piano just well enough to know a few bars to some popular songs but not good enough to impress parents
