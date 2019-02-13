@@ -34,7 +34,7 @@ _September 2012 - December 2016_
 * Python
 * Javascript and various front end JS Frameworks
 * Swift
-* MS SQL
+* SQL
 * Photoshop
 * Sketch.app
 * macOS and Windows
