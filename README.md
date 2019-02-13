@@ -7,7 +7,7 @@
 
 Software engineer with 5+ years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of value through the use of innovative digital solutions.
 
-Experience providing vision, leadership, and implementation of innovative technology while working closely with business partners to achieve goals. Constantly looking for automation or modernization opportunities to achieve process or business model improvements with tangible ROI.
+Experience providing vision, leadership, and implementation of innovative technology while working closely with business partners to achieve goals. Constantly looking for automation or modernization opportunities to achieve process or business model improvements with tangible ROI. I am comfortable picking up and learning any technologies necessary to be effective in solving problems.
 
 ## Experience
 ### Northwestern Mutual - Software Engineer II
