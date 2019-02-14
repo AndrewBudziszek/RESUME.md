@@ -15,6 +15,8 @@ _January 2017 - Present_
 
 Plays a crucial role in a highly successful scrum team. Responsible for understanding Real Estate business processes and creating cutting-edge technology solutions to improve business processes. Takes part in digital innovation opportunities that often lead to tangible improvements in business processes. A member of the Diversity and Inclusion council to help lead efforts in creating an engaging, equitable, and diverse workplace.
 
+_Software Engineer I from January 2017 to August 2018. Current position from August 2018 - Present_
+
 ### Infosoft Group - Programmer Analyst Intern
 _May 2014 - November 2016_
 
