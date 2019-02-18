@@ -45,3 +45,4 @@ _September 2012 - December 2016_
 * Awesome Problem Solving Skills
 * Can have successful conversations with other humans at times
 * Plays piano just well enough to know a few bars to some popular songs but not good enough to impress parents
+* Familiar with [ArnoldC](https://github.com/lhartikk/ArnoldC)
