@@ -40,7 +40,8 @@ _September 2012 - December 2016_
 * Photoshop
 * Sketch.app
 * macOS and Windows
-* AWS
+* AWS (DynamoDB, Lambda, S3, API Gateway)
+* Serverless Framework
 * Web Development(HTML/CSS)
 * Awesome Problem Solving Skills
 * Can have successful conversations with other humans at times
