@@ -73,7 +73,7 @@ _September 2012 - December 2016_
 * Java
 * Python
 * Javascript and various front end JS Frameworks
-* Swift
+* Swift/Swift UI
 * SQL
 * Photoshop
 * Sketch.app
