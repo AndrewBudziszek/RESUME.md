@@ -70,15 +70,29 @@ I also over see all growth development with the company including the following 
 _September 2012 - December 2016_
 
 ## Other Skills
-* Javascript(Node.js), Python, Java
-* Various front end JS Frameworks
+
+### Programming Languages
+I am confident that I can pick up any popular programming language pretty quickly; these are the ones I have hands on experience with:
+* Javascript(Both front end and back end with Node.js)
+* Python
+* Java
 * Swift/Swift UI
-* SQL
-* Photoshop, Sketch.app
-* macOS and Windows
+* Familiar with [ArnoldC](https://github.com/lhartikk/ArnoldC) and [Rockstar](https://github.com/RockstarLang/rockstar)
+
+### Databases
+* DynamoDB
+* MS SQL 
+* Postgres
+
+### Design Tools
+* Photoshop
+* Sketch.app
+
+### Cloud Platforms
 * AWS (DynamoDB, Lambda, S3, API Gateway, Cognito)
-* Web Development(HTML/CSS)
+* Azure
+
+### Other Notable Skills
 * Awesome Problem Solving Skills
 * Can have successful conversations with other humans at times
 * Plays piano just well enough to know a few bars to some popular songs but not good enough to impress parents
-* Familiar with [ArnoldC](https://github.com/lhartikk/ArnoldC) and [Rockstar](https://github.com/RockstarLang/rockstar)
