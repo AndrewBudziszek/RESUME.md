@@ -70,16 +70,13 @@ I also over see all growth development with the company including the following 
 _September 2012 - December 2016_
 
 ## Other Skills
-* Java
-* Python
-* Javascript and various front end JS Frameworks
+* Javascript(Node.js), Python, Java
+* Various front end JS Frameworks
 * Swift/Swift UI
 * SQL
-* Photoshop
-* Sketch.app
+* Photoshop, Sketch.app
 * macOS and Windows
 * AWS (DynamoDB, Lambda, S3, API Gateway, Cognito)
-* Serverless Framework
 * Web Development(HTML/CSS)
 * Awesome Problem Solving Skills
 * Can have successful conversations with other humans at times
