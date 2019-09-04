@@ -20,8 +20,6 @@ _January 2017 - Present_
 
 Plays a crucial role in a highly successful scrum team. Responsible for understanding Real Estate business processes and creating cutting-edge technology solutions to improve business processes. Takes part in digital innovation opportunities that often lead to tangible improvements in business processes. A member of the Diversity and Inclusion council to help lead efforts in creating an engaging, equitable, and diverse workplace.
 
-Responsible for understanding Real Estate business processes and creating cutting-edge technology solutions to improve business processes. Takes part in digital innovation opportunities that often lead to tangible improvements in business processes. 
-
 - A member of the Diversity and Inclusion council to help lead efforts in creating an engaging, equitable, and diverse workplace. 
 - Led efforts in understanding employee engagement and acted on making improvements.
 
