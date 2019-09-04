@@ -87,8 +87,8 @@ I am confident that I can pick up any popular programming language pretty quickl
 * Sketch.app
 
 ### Cloud Platforms
-* AWS (DynamoDB, Lambda, S3, API Gateway, Cognito)
-* Azure
+* AWS (DynamoDB, RDS, Lambda, S3, API Gateway, Cognito)
+* Azure (Little Experience)
 
 ### Other Notable Skills
 * Awesome Problem Solving Skills
