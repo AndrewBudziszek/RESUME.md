@@ -11,8 +11,7 @@ Highly engaged in company activities, corporate events, and team building exerci
 
 Experience providing vision, leadership, and implementation of innovative technology while working closely with business partners to achieve goals. Constantly looking for automation or modernization opportunities to achieve process or business model improvements with tangible ROI.
 
-Seeking opportunities to expand my business knowledge and express my technology and leadership skills. 
-
+Seeking leadership opportunities to expand my business knowledge and help guide and enable teams to succeed. 
 
 ## Experience
 ### Northwestern Mutual - Full-Stack Software Engineer II
