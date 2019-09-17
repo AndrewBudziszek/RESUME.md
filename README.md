@@ -9,6 +9,8 @@ Software engineer with 5+ years of engineering experience with small to large si
 
 Highly engaged in company activities, corporate events, and team building exercises. Positive attitude to drive change and innovation.
 
+Mentors junior devs, new hires, and struggling devs to guide them to success in both their technical skills and career aspirations.
+
 Experience providing vision, leadership, and implementation of innovative technology while working closely with business partners to achieve goals. Constantly looking for automation or modernization opportunities to achieve process or business model improvements with tangible ROI.
 
 Seeking leadership opportunities to expand my business knowledge and help guide and enable teams to succeed. 
@@ -68,6 +70,7 @@ I am confident that I can pick up any popular programming language pretty quickl
 
 ### Other Notable Skills/Accomplishments
 * Awesome Problem Solving Skills
+* Great at mentoring junior developers, new hires, and devs that are struggling in both technology and career. 
 * Can have successful conversations with other humans at times
 * Plays piano just well enough to know a few bars to some popular songs but not good enough to impress parents
 * Can identify most Boeing and Airbus commercial airplanes as they land/takeoff at Mitchell International Airport
