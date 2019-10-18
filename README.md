@@ -16,8 +16,14 @@ Experience providing vision, leadership, and implementation of innovative techno
 Seeking leadership opportunities to expand my business knowledge and help guide and enable teams to succeed. 
 
 ## Experience
+
+### Direct Supply - Senior Software Engineer
+_October 2019 - Present_
+
+TBD
+
 ### Northwestern Mutual - Full-Stack Software Engineer II
-_January 2017 - Present_
+_January 2017 - October 2019_
 
 Plays a crucial role in a highly successful scrum team. Responsible for understanding Real Estate business processes and creating cutting-edge technology solutions to improve business processes. Takes part in digital innovation opportunities that often lead to tangible improvements in business processes.
 
@@ -40,6 +46,23 @@ _Software Engineer I from January 2017 to August 2018. Current position from Aug
 _May 2014 - November 2016_
 
 Assists IT Staff in conceptualizing and development of new and existing software programs and applications. Write, translate, and code software programs and applications according to specifications. Test software and resolve any defects found. Run and monitor software performance tests on new and existing programs for the purposes of correcting errors, isolating areas for improvement, and general debugging.
+
+## Projects
+These projects are described at a high level as to not give away any trade secrets.
+
+### Real Estate Investment Web Application - Northwestern Mutual
+In this project, my team and I created and maintained a web application that helped our business partners keep track of and make decisions about investments. This was a fullstack web application Javascript across the stack. React.js for the front end. Node.js for the backend services(API). Our database was MS SQL. All of this was hosted on AWS using Kubernetes for orchestration of deployment of our containers. We were responsible for the ENTIRE stack. This includes but is not limited to the following:
+
+* Designing AND Implementing UI/UX
+* Implementing API services
+* Data Modeling and Implementation
+* Writing Tests
+* Keeping Docker images up to date
+* Implementing CI/CD pipeline using Gitlab CI
+
+
+### Dots Bounce/Float - Sonny Brooks Studios
+Developed 2 iOS games using Objective C and Swift. Uploaded them to the App Store where they hung out for 2 years before being killed by iOS updating to 64-bit. Also, my fault for being a young developer and not using git properly. Lost a lot of code. But it was a great experience and learned a ton!
 
 ## Education
 ### University of Wisconsin - Milwaukee, B.S. Computer Science
@@ -69,9 +92,20 @@ I am confident that I can pick up any popular programming language pretty quickl
 * Azure (Little Experience)
 
 ### Other Notable Skills/Accomplishments
-* Awesome Problem Solving Skills
+* Awesome Problem Solving Skills.
 * Great at mentoring junior developers, new hires, and devs that are struggling in both technology and career. 
-* Can have successful conversations with other humans at times
-* Plays piano just well enough to know a few bars to some popular songs but not good enough to impress parents
-* Can identify most Boeing and Airbus commercial airplanes as they land/takeoff at Mitchell International Airport
+* Can have successful conversations with other humans at times.
+* Plays piano just well enough to know a few bars to some popular songs but not good enough to impress parents.
+* Can identify most Boeing and Airbus commercial airplanes as they land/takeoff at Mitchell International Airport.
 * Won High School marching band state championship 4 years in a row. (Alto Sax and Snare Drum)
+
+### Concerts Attended
+* The Killers (TWICE! My favorite band of all time.)
+* Foo Fighters
+* Pentatonix
+* Shawn Mendes
+* Steve Aoki
+* Backstreet Boys
+* Maroon 5
+* Jason Mraz
+* Various Concerts at SummerFest
