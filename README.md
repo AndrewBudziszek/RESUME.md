@@ -76,7 +76,7 @@ I am confident that I can pick up any popular programming language pretty quickl
 * Python
 * Java
 * Swift/Swift UI
-* Familiar with [ArnoldC](https://github.com/lhartikk/ArnoldC) and [Rockstar](https://github.com/RockstarLang/rockstar)
+* Familiar with [ArnoldC](https://github.com/lhartikk/ArnoldC), [Rockstar](https://github.com/RockstarLang/rockstar), and [LOLCODE](https://github.com/SonnyBrooks/RedditDailyProgrammerChallenges/blob/master/LOLCODE/Challenge239EASY.lol)
 
 ### Databases
 * DynamoDB
