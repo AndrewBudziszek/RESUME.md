@@ -20,7 +20,7 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 ### Direct Supply - Senior Software Engineer
 _October 2019 - Present_
 
-Senior Software Engineer focusing on Front End Web devlopment using React.js, Redux, and C# to support, maintain, and create new features for an order management guide application. This product is used to connect major US suppliers to Senior Living communities.
+Senior Software Engineer focusing on Front End Web devlopment using React.js, Redux, and C# to support, maintain, and create new features for an order guide management application. This product is used to connect major US suppliers to Senior Living communities.
 
 ### Northwestern Mutual - Full-Stack Software Engineer II
 _January 2017 - October 2019_
