@@ -96,7 +96,7 @@ I am confident that I can pick up any popular programming language pretty quickl
 * Great at mentoring junior developers, new hires, and devs that are struggling in both technology and career. 
 * Can have successful conversations with other humans at times.
 * Plays piano just well enough to know a few bars to some popular songs but not good enough to impress parents.
-* Can identify most Boeing and Airbus commercial airplanes as they land/takeoff at Mitchell International Airport.
+* Can identify most Boeing and Airbus commercial airplanes as they takeoff/land at airports or fly overhead. 
 * Won High School marching band state championship 4 years in a row. (Alto Sax and Snare Drum)
 
 ### Concerts Attended
