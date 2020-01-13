@@ -5,7 +5,7 @@
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 ![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 
-Software engineer with 5+ years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of delivering value through the use of innovative digital solutions.
+Software engineer with more than 5 years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of delivering value through the use of innovative digital solutions.
 
 Highly engaged in company activities, corporate events, and team building exercises. Positive attitude to drive change and innovation.
 
@@ -20,7 +20,7 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 ### Direct Supply - Senior Software Engineer
 _October 2019 - Present_
 
-Senior Software Engineer focusing on Front End Web devlopment using React.js, Redux, and C# to support, maintain, and create new features for an order guide management application. This product is used to connect major US suppliers to Senior Living communities.
+Senior Software Engineer focusing on Front End Web devlopment using React.js, Redux, and C# to support, maintain, and create new features for an order guide management application. This product is used to connect major US suppliers to Senior Living communities. 
 
 ### Northwestern Mutual - Full-Stack Software Engineer II
 _January 2017 - October 2019_
@@ -31,10 +31,10 @@ Plays a crucial role in a highly successful scrum team. Responsible for understa
 - Led efforts in understanding employee engagement and acted on making improvements. (measured by eNPS)
 
 Notable Accomplishments:
-- Created web automation scripts to extract data
-- Migrated multiple full-stack applications from on premises solutions to AWS and Azure.
-- Built full-stack web applications using React, JavaScript, and Node.js. Also have experience migrating a C# API to Node.js
-- SQL Experience including Data Modeling
+ - Created web automation scripts to extract data
+ - Migrated multiple full-stack applications from on premises solutions to AWS and Azure.
+ - Built full-stack web applications using React, JavaScript, and Node.js. Also have experience migrating a C# API to Node.js
+ - SQL Experience including Data Modeling
  - Machine Learning Hackathon - Predicting Weather Impact on Investments (1st Prize)
  - Document Portal Hackathon - Document Management/Intake Solution (Top 3)
  - Fusion Hackathon - Call Center Improvements (Participant)
@@ -51,7 +51,7 @@ Assists IT Staff in conceptualizing and development of new and existing software
 These projects are described at a high level as to not give away any trade secrets.
 
 ### Real Estate Investment Web Application - Northwestern Mutual
-In this project, my team and I created and maintained a web application that helped our business partners keep track of and make decisions about investments. This was a fullstack web application Javascript across the stack. React.js for the front end. Node.js for the backend services(API). Our database was MS SQL. All of this was hosted on AWS using Kubernetes for orchestration of deployment of our containers. We were responsible for the ENTIRE stack. This includes but is not limited to the following:
+My team and I created and maintained a web application that helped our business partners keep track of and make decisions about real estate investments. This was a fullstack web application Javascript across the stack. React.js for the front end. Node.js for the backend services(API). Our database was MS SQL. All of this was hosted on AWS using Kubernetes for orchestration of deployment of our containers. We were responsible for the ENTIRE stack. This includes but is not limited to the following:
 
 * Designing AND Implementing UI/UX
 * Implementing API services
