@@ -64,6 +64,9 @@ My team and I created and maintained a web application that helped our business 
 ### Dots Bounce/Float - Sonny Brooks Studios
 Developed 2 iOS games using Objective C and Swift. Uploaded them to the App Store where they hung out for 2 years before being killed by iOS updating to 64-bit. Also, my fault for being a young developer and not using git properly. Lost a lot of code. But it was a great experience and learned a ton!
 
+### Github Contributions
+Contributed to ![awesome-mac](https://github.com/jaywcjlove/awesome-mac).
+
 ## Education
 ### University of Wisconsin - Milwaukee, B.S. Computer Science
 _September 2012 - December 2016_
