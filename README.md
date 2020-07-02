@@ -15,10 +15,21 @@ Experience providing vision, leadership, and implementation of innovative techno
 
 Seeking leadership opportunities to expand my business knowledge and help guide and enable teams to succeed. 
 
+## Certifications
+### SAFe 4.0 Practiotioner
+### SAFe 4.0 Scrum Master
+### AWS Certified Cloud Practitioner
+
+
 ## Experience
 
+### Northwestern Mutual - Software Engineer/Scrum Master
+_February 2020 - Present_
+
+Worked on the Finance and Risk team as a developer and Scrum Master. Supported finance and general ledger applications including cash disbursements. 
+
 ### Direct Supply - Senior Software Engineer
-_October 2019 - Present_
+_October 2019 - February 2020
 
 Senior Software Engineer focusing on Front End Web devlopment using React.js, Redux, and C# to support, maintain, and create new features for an order guide management application. This product is used to connect major US suppliers to Senior Living communities. 
 
