@@ -29,7 +29,7 @@ _February 2020 - Present_
 Worked on the Finance and Risk team as a developer and Scrum Master. Supported finance and general ledger applications including cash disbursements. 
 
 ### Direct Supply - Senior Software Engineer
-_October 2019 - February 2020
+_October 2019 - February 2020_
 
 Senior Software Engineer focusing on Front End Web devlopment using React.js, Redux, and C# to support, maintain, and create new features for an order guide management application. This product is used to connect major US suppliers to Senior Living communities. 
 
