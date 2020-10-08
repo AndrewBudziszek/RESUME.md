@@ -75,6 +75,9 @@ My team and I created and maintained a web application that helped our business 
 ### Dots Bounce/Float - Sonny Brooks Studios
 Developed 2 iOS games using Objective C and Swift. Uploaded them to the App Store where they hung out for 2 years before being killed by iOS updating to 64-bit. Also, my fault for being a young developer and not using git properly. Lost a lot of code. But it was a great experience and learned a ton!
 
+### Svetle - Personal Website (ROTATING)
+Check out what I'm currently experimenting with at [budziszek.com](http://budziszek.com). Right now, you'll find a sample [Svetle](https://svelte.dev/) site.
+
 ### Github Contributions
 Contributed to [awesome-mac](https://github.com/jaywcjlove/awesome-mac).
 
