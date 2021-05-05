@@ -89,14 +89,13 @@ _September 2012 - December 2016_
 
 ### Programming Languages
 I am confident that I can pick up any popular programming language pretty quickly; these are the ones I have hands on experience with:
-* Javascript(Both front end and back end with Node.js)
+* Javascript (Multiple Frameworks including React.js and Node.js)
 * Python
 * Java
 * Swift/Swift UI
 * Familiar with [ArnoldC](https://github.com/lhartikk/ArnoldC), [Rockstar](https://github.com/RockstarLang/rockstar), and [LOLCODE](https://github.com/SonnyBrooks/RedditDailyProgrammerChallenges/blob/master/LOLCODE/Challenge239EASY.lol)
 
 ### Databases
-* DynamoDB
 * MS SQL 
 * Postgres
 
@@ -105,7 +104,7 @@ I am confident that I can pick up any popular programming language pretty quickl
 * Sketch.app
 
 ### Cloud Platforms
-* AWS (DynamoDB, RDS, Lambda, S3, API Gateway, Cognito)
+* AWS (RDS, Lambda, S3, API Gateway, Cognito, AWS Amplify)
 * Azure (Little Experience)
 
 ### Other Notable Skills/Accomplishments
