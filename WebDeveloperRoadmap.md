@@ -1,6 +1,6 @@
 # Web Developer Roadmap Progress (WIP)
 Based on the [Web Developer Roadmap(2021)](https://github.com/kamranahmedse/developer-roadmap)
-
+WORK IN PROGRESS - NOT FULLY UPDATED
 ## Fundamentals
 - [x] Git - Version Control
 - [x] Basic Terminal Usage
