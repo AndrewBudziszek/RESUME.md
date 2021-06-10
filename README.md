@@ -28,6 +28,11 @@ _February 2020 - Present_
 
 Worked on the Finance and Risk team as a developer and Scrum Master. Supported finance and general ledger applications including cash disbursements. 
 
+Notable Projects
+- General Ledger Accounting Microservice(Java)
+- Check Automation (Java)
+- Use Tax Workflow ETL (Apache NiFi)
+
 ### Direct Supply - Senior Software Engineer
 _October 2019 - February 2020_
 
