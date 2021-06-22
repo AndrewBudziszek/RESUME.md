@@ -16,7 +16,7 @@ Experience providing vision, leadership, and implementation of innovative techno
 Seeking leadership opportunities to expand my business knowledge and help guide and enable teams to succeed. 
 
 ## Certifications
-### SAFe 4.0 Practiotioner
+### SAFe 4.0 Practioner
 ### SAFe 4.0 Scrum Master
 ### [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/1f209ecf-aebb-4f3e-8baf-e97636e37378/public_url)
 
