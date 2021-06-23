@@ -86,6 +86,12 @@ Check out what I'm currently experimenting with at [budziszek.com](http://budzis
 ### Github Contributions
 Contributed to [awesome-mac](https://github.com/jaywcjlove/awesome-mac).
 
+### Fun Sites
+* https://ayyyyymc.bet/ (AWS Amplify)
+* https://www.isgmeup.space/ (AWS Amplify)
+* https://www.unspeakables.lol/
+* * CAUTION: Mildly not safe for work. Takes a list of bad words as provided by Carnegie Mellon University and matches them to UrbanDictionary. 
+
 ## Education
 ### University of Wisconsin - Milwaukee, B.S. Computer Science
 _September 2012 - December 2016_
