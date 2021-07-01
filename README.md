@@ -87,8 +87,8 @@ Check out what I'm currently experimenting with at [budziszek.com](http://budzis
 Contributed to [awesome-mac](https://github.com/jaywcjlove/awesome-mac).
 
 ### Fun Sites
-* https://ayyyyymc.bet/ (AWS Amplify)
-* https://www.isgmeup.space/ (AWS Amplify)
+* http://ayyyyymc.bet/ (AWS Amplify)
+* http://www.isgmeup.space/ (AWS Amplify)
 * https://www.unspeakables.lol/
 * * CAUTION: Mildly not safe for work. Takes a list of bad words as provided by Carnegie Mellon University and matches them to UrbanDictionary. 
 
