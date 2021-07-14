@@ -107,10 +107,6 @@ I am confident that I can pick up any popular programming language pretty quickl
 * Swift/Swift UI
 * Familiar with [ArnoldC](https://github.com/lhartikk/ArnoldC), [Rockstar](https://github.com/RockstarLang/rockstar), and [LOLCODE](https://github.com/SonnyBrooks/RedditDailyProgrammerChallenges/blob/master/LOLCODE/Challenge239EASY.lol)
 
-### Databases
-* MS SQL 
-* Postgres
-
 ### Design Tools
 * Photoshop
 * Sketch.app
