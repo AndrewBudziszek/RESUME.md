@@ -84,7 +84,7 @@ Developed 2 iOS games using Objective C and Swift. Uploaded them to the App Stor
 Check out what I'm currently experimenting with at [budziszek.com](http://budziszek.com). Right now, you'll find a sample [Svetle](https://svelte.dev/) site.
 
 ### Fun Sites
-* [App Store Info Lookup](https://main.d38li89hnrhx6v.amplifyapp.com/) - Use id `553834731` to lookup Candy Crush
+* [App Store Info Lookup](https://main.d38li89hnrhx6v.amplifyapp.com/) - Use id `553834731` to lookup Candy Crush - Need to enable cors w/ extension.
 * http://ayyyyymc.bet/ (AWS Amplify)
 * http://www.isgmeup.space/ (AWS Amplify)
 * https://www.unspeakables.lol/
