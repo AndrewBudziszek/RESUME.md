@@ -23,14 +23,15 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 
 ## Experience
 
-### Northwestern Mutual - Software Engineer/Scrum Master
+### Northwestern Mutual - Senior Software Engineer/Scrum Master
 _February 2020 - Present_
 
 Worked on the Finance and Risk team as a developer and Scrum Master. Supported finance and general ledger applications including cash disbursements. Focused on modernizing mainframe applications using microservices and data processing tools. 
 
 Notable Projects
-- General Ledger Accounting Microservice(Java)
-- Check Automation (Java)
+- Cash Disbursements Microservice (Node.js/Kafka/NiFi/Postgres)
+- General Ledger Accounting Microservice(Java/Postgres/NiFi)
+- Check Automation (Node.js)
 - Use Tax Workflow ETL (Apache NiFi)
 
 ### Direct Supply - Senior Software Engineer
