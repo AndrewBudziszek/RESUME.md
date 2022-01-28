@@ -5,7 +5,7 @@
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 ![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 
-Software engineer with more than 5 years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of delivering value through the use of innovative digital solutions.
+Software engineer with more than 7 years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of delivering value through the use of innovative digital solutions.
 
 Highly engaged in company activities, corporate events, and team building exercises. Positive attitude to drive change and innovation.
 
@@ -26,7 +26,7 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 ### Northwestern Mutual - Senior Software Engineer/Scrum Master
 _February 2020 - Present_
 
-Worked on the Finance and Risk team as a developer and Scrum Master. Supported finance and general ledger applications including cash disbursements. Focused on modernizing mainframe applications using microservices and data processing tools. 
+Worked on the Finance and Risk team as an engineer and Scrum Master. Supported finance and accounting applications including cash disbursements and general ledger processing. Focused on modernizing mainframe and file-based applications/processes using microservices and data processing tools. 
 
 Notable Projects
 - Cash Disbursements Microservice (Node.js/Kafka/NiFi/Postgres)
