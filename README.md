@@ -1,7 +1,6 @@
 # Andrew Budziszek
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
-![Swift](https://www.vectorlogo.zone/logos/swift/swift-ar21.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 ![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 
