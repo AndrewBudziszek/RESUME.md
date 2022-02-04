@@ -23,7 +23,7 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 
 ## Experience
 
-### Northwestern Mutual - Senior Software Engineer/Scrum Master
+### Northwestern Mutual - Senior Software Engineer/Scrum Master - Finance and Risk
 _February 2020 - Present_
 
 Worked on the Finance and Risk team as an engineer and Scrum Master. Supported finance and accounting applications including cash disbursements and general ledger processing. Focused on modernizing mainframe and file-based applications/processes using microservices and data processing tools. 
@@ -34,15 +34,15 @@ Notable Projects
 - Check Automation (Node.js)
 - Use Tax Workflow ETL (Apache NiFi)
 
-### Direct Supply - Senior Software Engineer
+### Direct Supply - Senior Software Engineer - Order Guide Manger
 _October 2019 - February 2020_
 
 Senior Software Engineer focusing on Front End Web devlopment using React.js, Redux, and C# to support, maintain, and create new features for an order guide management application. This product is used to connect major US suppliers to Senior Living communities. 
 
-### Northwestern Mutual - Full-Stack Software Engineer II
+### Northwestern Mutual - Full-Stack Software Engineer II - Real Estate
 _January 2017 - October 2019_
 
-Plays a crucial role in a highly successful scrum team. Responsible for understanding Real Estate business processes and creating cutting-edge technology solutions to improve business processes. Takes part in digital innovation opportunities that often lead to tangible improvements in business processes.
+Plays a crucial role in a highly successful scrum team. Responsible for understanding Real Estate business processes and creating cutting-edge technology solutions to improve business processes and manage investments. Takes part in digital innovation opportunities that often lead to tangible improvements in business processes.
 
 - A member of the Diversity and Inclusion council to help lead efforts in creating an engaging, equitable, and diverse workplace. 
 - Led efforts in understanding employee engagement and acted on making improvements. (measured by eNPS)
