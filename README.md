@@ -14,12 +14,6 @@ Experience providing vision, leadership, and implementation of innovative techno
 
 Seeking leadership opportunities to expand my business knowledge and help guide and enable teams to succeed. 
 
-## Certifications
-### SAFe 4.0 Practioner
-### SAFe 4.0 Scrum Master
-### [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/1f209ecf-aebb-4f3e-8baf-e97636e37378/public_url)
-
-
 ## Experience
 
 ### Northwestern Mutual - Senior Software Engineer/Scrum Master - Finance and Risk
@@ -94,6 +88,12 @@ Check out what I'm currently experimenting with at [budziszek.com](http://budzis
 ## Education
 ### University of Wisconsin - Milwaukee, B.S. Computer Science
 _September 2012 - December 2016_
+
+## Certifications
+* SAFe 4.0 Practioner
+* SAFe 4.0 Scrum Master
+* [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/1f209ecf-aebb-4f3e-8baf-e97636e37378/public_url)
+
 
 ## Other Skills
 
