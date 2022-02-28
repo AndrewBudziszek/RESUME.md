@@ -19,7 +19,7 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 ### Northwestern Mutual - Senior Software Engineer/Scrum Master - Finance and Risk
 _February 2020 - Present_
 
-Worked on the Finance and Risk team as an engineer and Scrum Master. Supported finance and accounting applications including cash disbursements and general ledger processing. Focused on modernizing mainframe and file-based applications/processes using microservices and data processing tools. Modernized General Ledger batch processes to use API based systems that process ~1.5m transactions daily worth >$5bn per night.
+Worked on the Finance and Risk team as an engineer and Scrum Master. Supported finance and accounting applications including cash disbursements and general ledger processing. Focused on modernizing mainframe and file-based applications/processes using microservices and data processing tools. Modernized General Ledger batch processes to use API based systems that process ~1.5m transactions daily worth >$5bn.
 
 Notable Projects
 - Cash Disbursements Microservice (Node.js/Kafka/NiFi/Postgres)
