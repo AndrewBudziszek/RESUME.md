@@ -41,7 +41,7 @@ Plays a crucial role in a highly successful scrum team. Responsible for understa
 - Led efforts in understanding employee engagement and acted on making improvements. (measured by eNPS)
 
 Notable Accomplishments:
- - Created web automation scripts to extract data
+ - Created web automation scripts to extract interest rates from various websites
  - Migrated multiple full-stack applications from on premises solutions to AWS and Azure.
  - Built full-stack web applications using React, JavaScript, and Node.js. Also have experience migrating a C# API to Node.js
  - SQL Experience including Data Modeling
