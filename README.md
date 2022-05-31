@@ -16,8 +16,13 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 
 ## Experience
 
+### Truebill - Senior Software Engineer - Financial Wellness
+_May 2022 - Present_
+
+Software Engineer working to improve the financial health and wellness of everyone with the latest technologies. Creating innovative iOS, Android and web apps using React Native, Node.js, Typescript, GraphQL, PostgreSQL.
+
 ### Northwestern Mutual - Senior Software Engineer/Scrum Master - Finance and Risk
-_February 2020 - Present_
+_February 2020 - May 2022_
 
 Worked on the Finance and Risk team as an engineer and Scrum Master. Supported finance and accounting applications including cash disbursements and general ledger processing. Focused on modernizing mainframe and file-based applications/processes using microservices and data processing tools. Modernized General Ledger batch processes to use API based systems that process ~1.5m transactions daily worth >$5bn.
 
