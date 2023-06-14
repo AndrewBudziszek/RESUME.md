@@ -16,10 +16,15 @@ Seeking leadership opportunities to expand my business knowledge and help guide 
 
 ## Experience
 
-### Truebill - Senior Software Engineer - Financial Wellness
+### Rocket Money _(previously Truebill)_ - Senior Software Engineer - Financial Wellness
 _May 2022 - Present_
 
-Software Engineer working to improve the financial health and wellness of everyone with the latest technologies. Creating innovative iOS, Android and web apps using React Native, Node.js, Typescript, GraphQL, PostgreSQL.
+Creating the #1 Finance App on the App Store apps used by _millions_ of people. Specifically worked on the Smart Savings and other automated savings features in the Rocket Money app.
+
+Tech Used:
+* React Native
+* Postgres
+* Node
 
 ### Northwestern Mutual - Senior Software Engineer/Scrum Master - Finance and Risk
 _February 2020 - May 2022_
