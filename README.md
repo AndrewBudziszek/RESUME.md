@@ -4,7 +4,7 @@
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 ![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 
-Software engineer with more than 7 years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of delivering value through the use of innovative digital solutions.
+Software engineer with more than 10 years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of delivering value through the use of innovative digital solutions.
 
 Highly engaged in company activities, corporate events, and team building exercises. Positive attitude to drive change and innovation.
 
@@ -24,8 +24,17 @@ Creating the #1 Finance App on the App Store apps used by _millions_ of people. 
 Tech Used:
 * React Native
 * Postgres
+* GraphQL
+* SQS
 * Node
 
+Projects:
+**Financial Goals**
+Led the development of a brand new financial goals experience. Developed architecture, data models, batch scripts, APIs, and more to build a savings experience where users could save money towards their goals. Worked with product partners to help determine priority, timelines, and launch strategies. 
+
+**Bill Negotiations**
+Improved various experiences within our mobile app to help users save money on their bills.
+  
 ### Northwestern Mutual - Senior Software Engineer/Scrum Master - Finance and Risk
 _February 2020 - May 2022_
 
