@@ -29,10 +29,13 @@ Tech Used:
 * Node
 
 Projects:
+
 **Financial Goals**
+
 Led the development of a brand new financial goals experience. Developed architecture, data models, batch scripts, APIs, and more to build a savings experience where users could save money towards their goals. Worked with product partners to help determine priority, timelines, and launch strategies. 
 
 **Bill Negotiations**
+
 Improved various experiences within our mobile app to help users save money on their bills.
   
 ### Northwestern Mutual - Senior Software Engineer/Scrum Master - Finance and Risk
