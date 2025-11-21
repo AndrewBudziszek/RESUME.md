@@ -4,15 +4,11 @@
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 ![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 
-Software engineer with more than 10 years of engineering experience with small to large sized companies. Expertise in bridging the gap between business needs and meaningful software experiences with a proven track record of delivering value through the use of innovative digital solutions.
+With 10+ years of experience in engineering, I thrive on building impactful products and strong, high-performing teams.
 
-Highly engaged in company activities, corporate events, and team building exercises. Positive attitude to drive change and innovation.
+I’ve led complex feature development, mentored teams, and have driven cross-functional initiatives that aligned product, design, and engineering. My goal is to help set up teams so they can bring their best selves to work and make some cool stuff!
 
-Mentors junior devs, new hires, and struggling devs to guide them to success in both their technical skills and career aspirations.
-
-Experience providing vision, leadership, and implementation of innovative technology while working closely with business partners to achieve goals. Constantly looking for automation or modernization opportunities to achieve process or business model improvements with tangible ROI.
-
-Seeking leadership opportunities to expand my business knowledge and help guide and enable teams to succeed. 
+I’m always looking for opportunities where I can formally step into an engineering leadership role and bring out the best in a team. I believe great leaders lead with empathy, technical insight, and a bias for execution.
 
 ## Experience
 
@@ -25,14 +21,29 @@ Tech Used:
 * React Native
 * Postgres
 * GraphQL
-* SQS
 * Node
-
+* AWS
+  
 Projects:
 
 **Financial Goals**
 
-Led the development of a brand new financial goals experience. Developed architecture, data models, batch scripts, APIs, and more to build a savings experience where users could save money towards their goals. Worked with product partners to help determine priority, timelines, and launch strategies. 
+🧭 Technical & People Leadership
+- Led team ceremonies, mentored engineers, and welcomed new engineers onto our team helping drive a culture of ownership and continuous improvement.
+- Completed the Aspiring Leaders Program to sharpen cross-functional leadership and execution skills.
+- Authored clear, searchable documentation to accelerate onboarding and scale team knowledge.
+- Championed architecture through well-structured RFCs, aligning engineering with product goals and setting the team up for long-term success. 
+
+🚀 Feature Architecture, Development, and Delivery
+- Architected and delivered flagship savings experiences end-to-end, boosting user engagement and retention.
+- Built multiple incentive-driven savings features and ran experiments to optimize adoption and conversion.
+- Managed complex app releases, streamlining cross-team coordination and reducing release risk.
+- Designed scalable backend systems to process millions of financial records reliably and efficiently.
+
+📈 Growth & Continuous Learning
+- Participated in Capture the Flag challenges to strengthen debugging, security, and creative problem-solving skills.
+- Stay sharp with ongoing exploration of systems design, team dynamics, and product strategy.
+- Ask me about 2XP day!
 
 **Bill Negotiations**
 
